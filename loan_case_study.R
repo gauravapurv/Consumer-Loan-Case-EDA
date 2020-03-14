@@ -11,3 +11,4 @@ library(dplyr)
 
 #Importing the loan.csv file in the dataframe for analysis.
 loan_master <- read.csv("loan.csv", stringsAsFactors = F)
+
